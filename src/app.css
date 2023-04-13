@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Montserrat&family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Montserrat&family=Ubuntu+Mono&family=Courgette&display=swap');
 
 :root {
 	--font-heading: 'EB Garamond', garamond;
 	--font-text: 'Montserrat', arial;
 	--font-accent: 'Ubuntu Mono', monospace;
+	--font-cursive: 'Courgette', 'Ubuntu Mono';
 }
 
 * {
